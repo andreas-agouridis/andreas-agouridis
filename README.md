@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome!
+Hello, my name is Andreas 
+I’m a software developer focused on building applications.  
+I like creating things that actually ship and people can use.
 
-<!--
-**andreas-agouridis/andreas-agouridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Apps & projects:  
+https://nextappz.com
+schoollib.agouridis.site
 
-Here are some ideas to get you started:
+## 🎵 Music
+I also release music as **ANDEARTH**  
+🎧 Spotify:  
+https://open.spotify.com/artist/4VXyciOR4BKVrU5RTlqxKE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎥 Video / YouTube
+I create video content on **PlanB Studio**  
+📺 YouTube:  
+https://www.youtube.com/@PlanBstudio12
