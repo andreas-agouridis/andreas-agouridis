@@ -4,8 +4,8 @@ I’m a software developer focused on building applications.
 I like creating things that actually ship and people can use.
 
 ## 🌐 Apps & projects:  
-https://nextappz.com
-schoollib.agouridis.site
+https://nextappz.com,
+https://schoollib.agouridis.site
 
 ## 🎵 Music
 I also release music as **ANDEARTH**  
